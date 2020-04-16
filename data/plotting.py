@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 #from matplotlib.ticker import MultipleLocator, FuncFormatter
 
 import pandas as pd
-import matplotlib2tikz
+import tikzplotlib
 
 os.chdir('/Users/farismismar/Desktop/deep/')
 
